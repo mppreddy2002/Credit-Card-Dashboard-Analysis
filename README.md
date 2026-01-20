@@ -12,10 +12,22 @@ Credit Card Customer Report: showing customer demographics, the dashboard allows
 **Insights:**
 
 Overall Revenue is 55M
+
+
 Total Interest Earned is 8M
+
+
 Tranasction Amount is 45M
+
+
 Male customers are contributing more in revenue 30M, female 25M
+
+
 Blue & Silver credit card are contributing to 93% of overall transactions
+
+
 TX, NY & CA is contributing to 68%
+
+
 Overall Activation rate is 57.5%
 Overall Delinquent rate is 6.06%
