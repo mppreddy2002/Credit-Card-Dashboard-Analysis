@@ -7,6 +7,8 @@ The project entails importing data from a CSV file into a Power BI to create das
 
 Credit Card Transaction Report: showing transactional data, providing insights on total revenue, interest, quaterly revenue trends and week-on-week growth
 Credit Card Customer Report: showing customer demographics, the dashboard allows you to explore customer data filtered by gender from age distribution to income analysis, it offers valuable insights into customer behavior
+
+
 **Insights:**
 
 Overall Revenue is 55M
